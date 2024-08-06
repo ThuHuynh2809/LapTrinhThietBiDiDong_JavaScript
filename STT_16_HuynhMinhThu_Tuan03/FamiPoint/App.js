@@ -1,0 +1,14 @@
+import FirstScreen from './screen/FirstScreen';
+import oneA from './screen/1_a';
+import oneB from './screen/1_b';
+import oneC from './screen/1_c';
+import oneD from './screen/1_d';
+import oneE from './screen/1_e';
+import twoA from './screen/2_a';
+import XMEye from './screen/XMEye';
+//export default oneA;
+//export default oneB;
+//export default oneC;
+//export default oneD;
+//export default oneE;
+export default FirstScreen;
